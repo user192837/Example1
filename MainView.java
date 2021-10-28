@@ -18,7 +18,7 @@ public class MainView {
 
         frame.getContentPane().add(masterPanel);
         frame.setResizable(true);
-        frame.setSize(850, 750);
+        frame.setSize(300, 150);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
