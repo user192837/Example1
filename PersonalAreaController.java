@@ -1,5 +1,3 @@
-package testforstack;
-
 public class PersonalAreaController{
     PersonalAreaView view;
     PersonalAreaController(MainController main,PersonalAreaView view){
