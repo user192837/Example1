@@ -1,5 +1,3 @@
-package testforstack;
-
 import javax.swing.*;
 import java.awt.*;
 
