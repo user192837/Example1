@@ -1,5 +1,3 @@
-package testforstack;
-
 public class SignUpController{
     SignUpController(MainController main,SignUpView view){
         PersonalAreaView viewPA=new
